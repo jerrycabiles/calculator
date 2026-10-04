@@ -87,7 +87,7 @@ function App() {
 
           <button
             onClick={() => numberClick("7")}
-            className="bg-gray-200 p-4 rounded-lg text-xl"
+            className="bg-blue-200 p-4 rounded-lg text-xl"
           >
             7
           </button>
